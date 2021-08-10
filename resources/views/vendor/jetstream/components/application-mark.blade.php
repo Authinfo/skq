@@ -1,0 +1,1 @@
+<img src="{{URL::to('img/pns.png')}}" style="width: 220px;">

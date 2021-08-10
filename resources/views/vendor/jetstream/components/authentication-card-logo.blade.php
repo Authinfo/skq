@@ -1,0 +1,1 @@
+<img src="{{URL::to('img/atas.png')}}" style="width: 178px;">
